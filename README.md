@@ -6,4 +6,4 @@ Scrap_blog function contains 5 smaller functions:
 - Get_links returns all the URL links contained in a web page except from "read more" links
 - GetLinks_readmore returns all the URL links of type "read more" (CSS class <a>) in a given page
 - Get_content_api gives the whole content of a page when the page contains only one blog post
-- Create_target_links creates URL links organized by date
+- Create_target_links creates URL links organized by date.
